@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453945416664",
+    "project_id": "zarity-assignment-vedant-iiit",
+    "storage_bucket": "zarity-assignment-vedant-iiit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453945416664:android:128bc3a698f8321a11f0ad",
+        "android_client_info": {
+          "package_name": "com.example.zarity_health_assignment_vedant_shrivastava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnMBvsm2LrM_tnKLkYMayHIEGWxfKL9Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
